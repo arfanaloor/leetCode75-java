@@ -16,7 +16,7 @@ class Solution {
     }
 
 }
-
+//SOLUTION
 /*
     1. The if condition checks whether the concatination of two strings in same or not
         1.1. If it is same then we will find the GCD(Greatest Common Divisor) of the lengths of two Strings
