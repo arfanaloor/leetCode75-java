@@ -14,3 +14,15 @@ class Solution {
         return result.toString();
     }
 }
+
+//SOLUTION
+/*
+    1.Creat a new String Builder result
+    2.while any of the lengths of two String is less then i
+        2.1. if length of first String is less then i
+            2.1.1 append the character at i into result
+        2.2. if length of second String is less then i
+            2.2.1 append the character at i into result 
+        2.3 increment i
+    3.return result
+ */
